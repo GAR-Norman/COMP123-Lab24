@@ -30,7 +30,7 @@ namespace COMP123_S2017_Lesson9B
             superVillian.AddPower("Loitering", 10);
             superVillian.AddPower("Eye Lasers", 40);
             superVillian.AddPower("Volcanic Sneeze", 50);
-            Console.WriteLine(superHero.ToString());
+            Console.WriteLine(superVillian.ToString());
             Console.WriteLine("Malice:" + superVillian.Malice); 
         }
     }
